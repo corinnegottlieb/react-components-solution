@@ -3,7 +3,7 @@
     height: 300px
 } */
 
-.freezing{
+/* .freezing{
     background-color: aqua
 }
 .fair{
@@ -11,9 +11,22 @@
 }
 .hell-scape{
     background-color: red
-}
+} */
 
-#root{
+#ex-2{
     display: grid;
     grid-template-columns: repeat(10, 1fr)
   }
+
+button{
+      width: 50px;
+      height: 15px;
+      background-color: white; 
+  }
+  
+  label{
+    text-decoration: underline;
+    font-size: 12px;
+    color: darkred;
+    font-weight: bold;
+}
