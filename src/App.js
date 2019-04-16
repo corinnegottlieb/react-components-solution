@@ -93,9 +93,6 @@ export default App
 
 export const Banner = () => <div className="banner">THE LOGO</div>
 
-// export default Banner
-
-// export default App
 
 // SPOT CHECK 5
 export class AboutUs extends Component {
